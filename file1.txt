@@ -1,2 +1,5 @@
 file 1
+
 edit from new_branch1
+
+edit from new_branch2
